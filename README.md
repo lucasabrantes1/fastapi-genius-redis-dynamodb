@@ -234,5 +234,5 @@ docker compose down
 ## 👨‍💻 Autor
 **Lucas Silva Dantas Abrantes**  
 Desenvolvedor Python / Data Engineer  
-📧 lucas.sabrantes.dev@gmail.com  
+📧 lucasabrantes002@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/lucassilvadantasabrantes/)
